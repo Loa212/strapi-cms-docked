@@ -4,3 +4,10 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+.tmp/
+.cache/
+.git/
+build/
+node_modules/
+data/
